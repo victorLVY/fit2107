@@ -1,0 +1,5 @@
+<testsuite errors="0" failures="0" name="" tests="3" time="0.002">
+<testcase classname="test_attendee.TestAttendee" name="test_example" time="0.000"/>
+<testcase classname="test_event.TestEvent" name="test_example" time="0.000"/>
+<testcase classname="test_reminders.TestReminders" name="test_example" time="0.000"/>
+</testsuite>
